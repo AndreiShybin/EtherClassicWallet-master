@@ -1,1 +1,1 @@
-# EtherClassicWallet-master
+# etherwallet
